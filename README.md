@@ -1,5 +1,5 @@
 # Stock Price Predictor
-Stock price predictor of various companies as a OSO project of our ACM community made by team AIML.
+Stock price predictor of various companies as a financial project, giaing insights on various projects.
 A cutting-edge Stock Price Predictor leveraging AI/ML algorithms to forecast future stock prices with accuracy and precision.
 
 Application of Stock Price Predictor
